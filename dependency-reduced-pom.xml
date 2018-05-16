@@ -7,13 +7,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <description>Data Lake Envelope</description>
   <inceptionYear>2018</inceptionYear>
-  <licenses>
-    <license>
-      <name>Choose License</name>
-      <url>http://....</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
   <build>
     <sourceDirectory>src/main/scala</sourceDirectory>
     <testSourceDirectory>src/test/scala</testSourceDirectory>
